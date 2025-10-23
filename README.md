@@ -38,7 +38,7 @@ You can run the game right on your computer — no installation required!
 
 1. **Clone the repository**
 
-   git clone https://github.com/LawsonLawson/simon-game.git
+   git clone https://github.com/LawsonLawson/simon_game.git
 
 ---
 
