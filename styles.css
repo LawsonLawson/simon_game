@@ -58,3 +58,26 @@ footer {
   margin:  5%;
   color: #FEF2BF;
 }
+
+/* Mobile responsiveness */
+@media (max-width: 600px) {
+  #level-title {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.7rem;
+    margin: 5%;
+    color: #FEF2BF;
+  }
+
+  .btn {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+  }
+
+  footer {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 0.7rem;
+  margin:  5%;
+  color: #FEF2BF;
+  }
+}
